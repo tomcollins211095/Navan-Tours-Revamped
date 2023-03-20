@@ -1,4 +1,5 @@
-![CI logo]
+![CI logo]![LOGO](https://user-images.githubusercontent.com/127897306/226232222-056f5a71-ecdc-44ee-a6b3-7f67e3ef367f.jpg)
+
 
 # Navan Tours
 
@@ -9,7 +10,9 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
     - The website consists of  pages, presented inline with user experience rules.
 
     - The user is presented with a colorful, informative site that is balanced and a responsive mobile first design.
-
+    
+   ![mobile first view](https://user-images.githubusercontent.com/127897306/226232198-80d3af5c-bb2f-4c5b-9d76-301ec8a245d9.jpg)
+ 
 ## Features 
 
 In this section we can see the features of the site.
@@ -21,6 +24,8 @@ In this section we can see the features of the site.
   - The site contains a website must have of a menu across the top of the page with a hover effect for a more in depth user experience. 
 
 - __The landing page__
+
+![landing page](https://user-images.githubusercontent.com/127897306/226232100-001b4e58-0ade-4cb4-aad4-b73c18eebee5.jpg)
 
   - The landing page is colourful and attractive for a user to spend time on. The background image is quite visible here, more so than on other pages.
 
