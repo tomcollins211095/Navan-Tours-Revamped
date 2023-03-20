@@ -10,3 +10,29 @@ body {
   margin: 0;
   padding-bottom: 50px;
 }
+
+/* _______________________ REGULAR HTML ELEMENTS _______________________ */
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+em {
+  color: gold;
+}
+
+p {
+  margin: 0;
+}
+
+/* _______________________ HEADER _______________________ */
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
