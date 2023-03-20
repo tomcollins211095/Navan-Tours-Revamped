@@ -36,3 +36,29 @@ header {
   justify-content: center;
   align-items: center;
 }
+
+/* _______________________ HOME COLUMNS _______________________ */
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+}
+
+.column {
+  margin: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+}
