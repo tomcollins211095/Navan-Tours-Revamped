@@ -1,5 +1,4 @@
-![CI logo]![LOGO](https://user-images.githubusercontent.com/127897306/226232222-056f5a71-ecdc-44ee-a6b3-7f67e3ef367f.jpg)
-
+(https://user-images.githubusercontent.com/127897306/226232222-056f5a71-ecdc-44ee-a6b3-7f67e3ef367f.jpg)
 
 # Navan Tours
 
@@ -10,14 +9,16 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
     - The website consists of  pages, presented inline with user experience rules.
 
     - The user is presented with a colorful, informative site that is balanced and a responsive mobile first design.
-    
-   ![mobile first view](https://user-images.githubusercontent.com/127897306/226232198-80d3af5c-bb2f-4c5b-9d76-301ec8a245d9.jpg)
  
 ## Features 
 
 In this section we can see the features of the site.
 
 ### Add title here.
+
+- __Mobile first design__
+
+   ![mobile first view](https://user-images.githubusercontent.com/127897306/226232198-80d3af5c-bb2f-4c5b-9d76-301ec8a245d9.jpg)
 
 - __Menu__
 
