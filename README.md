@@ -23,6 +23,8 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
 
   - The site contains a website must have of a menu across the top of the page with a hover effect for a more in depth user experience and also 
     just to add some color to the design.
+   
+   ![HOVER](https://user-images.githubusercontent.com/127897306/226239997-d6f2f602-73be-4734-8252-09b8906ebc19.jpg)
 
 - __The landing page__
 
@@ -34,7 +36,7 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
 - __Contact Page__
 
   - The conact page features a form that has a click functionality that opens a page as to present the user that they've signed up for a tour and
-  - monthly newsletter.
+    monthly newsletter.
 
 - __NewsLetter__
 
