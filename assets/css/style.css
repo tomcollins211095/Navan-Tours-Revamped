@@ -83,7 +83,7 @@ header {
   .column {
     text-align: center;
     width: 60%;
-    background-color: #a065ff;
+    background-color: rgb(160, 101, 255, 0.7);
     overflow-wrap: break-word;
     box-sizing: border-box;
     padding: 10px;
@@ -101,10 +101,21 @@ header {
   .column {
     text-align: center;
     width: 100%;
-    background-color: #a065ff;
+    background-color: rgb(160, 101, 255, 0.7);
     overflow-wrap: break-word;
     box-sizing:  border-box;
     padding: 10px;
     margin: 10px;
   }
+}
+
+/* _______________________ LINKS _______________________ */
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
