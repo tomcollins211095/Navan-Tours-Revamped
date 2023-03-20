@@ -53,7 +53,9 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official.
+  - For some reason I couldn't get rid of this stray footer error at the end of the code...
+
+![footer error](https://user-images.githubusercontent.com/127897306/226333359-a468df36-c6b5-49f9-ab5d-2c52495dc817.jpg)
 
 - CSS
   - No errors were found when passing through the official.
