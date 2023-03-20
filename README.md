@@ -4,34 +4,37 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
 
  - ___Navan Tours___
 
-    - The website consists of  pages, presented inline with user experience rules.
+    - The website consists of 4 pages, presented inline with user experience rules.
 
     - The user is presented with a colorful, informative site that is balanced and a responsive mobile first design.
  
 ## Features 
 
-In this section we can see the features of the site.
-
-### Add title here.
+### Key site features.
 
 - __Mobile first design__
-
-   ![mobile first view](https://user-images.githubusercontent.com/127897306/226232198-80d3af5c-bb2f-4c5b-9d76-301ec8a245d9.jpg)
+   
+   It is required nowadays that all sites can be viewed on mobile browsers and the Navan tours site is no different. Here we can see various 
+   layouts on all types of screens and see it is a responsive design.
+   
+   ![inspect](https://user-images.githubusercontent.com/127897306/226239067-fbf03f76-a2bc-426d-86c8-fa468fd1c329.jpg)
 
 - __Menu__
 
-  - The site contains a website must have of a menu across the top of the page with a hover effect for a more in depth user experience. 
+  - The site contains a website must have of a menu across the top of the page with a hover effect for a more in depth user experience and also 
+    just to add some color to the design.
 
 - __The landing page__
 
-![landing page](https://user-images.githubusercontent.com/127897306/226232100-001b4e58-0ade-4cb4-aad4-b73c18eebee5.jpg)
+  - The landing page is colourful and attractive for a user to spend time on. The background image is quite visible here, more so than on other pages. The 
+    columns are written with media queries so they will look good on both small and bigger screens.
 
-  - The landing page is colourful and attractive for a user to spend time on. The background image is quite visible here, more so than on other pages.
+![landing pages=](https://user-images.githubusercontent.com/127897306/226239352-ffd8a758-c907-4acf-b6ca-95fc64eeeda8.jpg)
 
 - __Contact Page__
 
-  - The conact page features a form that doesn't send has a """post and get feature???""" 
-  as to show the user the function of them submitting the form.
+  - The conact page features a form that has a click functionality that opens a page as to present the user that they've signed up for a tour and
+  - monthly newsletter.
 
 - __NewsLetter__
 
@@ -43,10 +46,6 @@ In this section we can see the features of the site.
 
   ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well.
-
-Is this website responive? Yes it is and here is how:
-
 ### Validator Testing 
 
 - HTML
@@ -54,6 +53,8 @@ Is this website responive? Yes it is and here is how:
 
 - CSS
   - No errors were found when passing through the official.
+
+![CSS](https://user-images.githubusercontent.com/127897306/226239417-8f274e01-c05d-42da-9634-41273d6f6add.jpg)
 
   ## Deployment
 
