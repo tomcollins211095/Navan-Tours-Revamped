@@ -33,6 +33,8 @@ Welcome to the Navan Tours website, an information and booking platform for a Na
 
 ![landing pages=](https://user-images.githubusercontent.com/127897306/226239352-ffd8a758-c907-4acf-b6ca-95fc64eeeda8.jpg)
 
+![stacked home](https://user-images.githubusercontent.com/127897306/226240366-1d0fe9a5-61ba-41f5-ae72-ae07c90e5bf4.jpg)
+
 - __Contact Page__
 
   - The conact page features a form that has a click functionality that opens a page as to present the user that they've signed up for a tour and
