@@ -75,6 +75,8 @@ header {
 
 .column {
   margin: auto;
+  border: 2px solid black;
+  border-radius: 15px;
 }
 
 @media screen and (max-width: 767px) {
