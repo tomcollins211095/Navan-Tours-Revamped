@@ -1,5 +1,3 @@
-(https://user-images.githubusercontent.com/127897306/226232222-056f5a71-ecdc-44ee-a6b3-7f67e3ef367f.jpg)
-
 # Navan Tours
 
 Welcome to the Navan Tours website, an information and booking platform for a Navan Heritage group service.
